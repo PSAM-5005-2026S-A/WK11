@@ -3,7 +3,7 @@
 Data aggregation, APIs and LLMs.
 
 
-## Links
+## API Links
 
 https://developer.nytimes.com/apis
 
